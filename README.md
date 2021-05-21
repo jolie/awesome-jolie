@@ -20,4 +20,4 @@ A curated list of awesome Jolie frameworks, libraries, and software.
 
 ## Web Development
 - [jolie-jwt](https://www.npmjs.com/package/@jolie/jwt) - A library for JSON Web Tokens (JWT).
-- [liquid](https://www.npmjs.com/package/@jolie/jwt) - A library wrapping the Liquid templating engine Liqp.
+- [liquid](https://www.npmjs.com/package/@jolie/liquid) - A library wrapping the Liquid templating engine Liqp.

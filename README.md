@@ -5,6 +5,7 @@ A curated list of awesome Jolie frameworks, libraries, and software.
 # Applications and Tools
 
 - [Leonardo](https://www.npmjs.com/package/@jolie/leonardo) - A web server written in Jolie.
+- [jolie-chucknorris](https://www.npmjs.com/package/jolie-chucknorris) - Jolie tools and libraries for Chuck Norris facts.
 - [Jolie Language Server](https://www.npmjs.com/package/@jolie/languageserver) - An implementation of the Language Server Protocol for Jolie.
 - [JPM](https://www.npmjs.com/package/@jolie/jpm) - The Jolie Package Manager.
 

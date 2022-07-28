@@ -15,7 +15,7 @@ A curated list of awesome Jolie frameworks, libraries, and software.
 - [vscode-jolie](https://github.com/jolie/vscode-jolie) - Support for Jolie in VSCode.
 
 # Libraries
-- [@jolie/jsoup](https://www.npmjs.com/package/@jolie/jsoup) - A html parser library for Jolie.
+- [@jolie/jsoup](https://www.npmjs.com/package/@jolie/jsoup) - An HTML parser library for Jolie.
 
 ## Databases and Data Handling
 - [TQuery](https://www.npmjs.com/package/@jolie/tquery) - An in-memory query framework.

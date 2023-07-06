@@ -15,6 +15,7 @@ A curated list of awesome Jolie frameworks, libraries, and software.
 - [vscode-jolie](https://github.com/jolie/vscode-jolie) - Support for Jolie in VSCode.
 
 # Libraries
+- [commonmark-jolie](https://github.com/fmontesi/commonmark-jolie) - A library for rendering markdown according to the commonmark specification.
 - [@jolie/jsoup](https://www.npmjs.com/package/@jolie/jsoup) - An HTML parser library for Jolie.
 
 ## Databases and Data Handling

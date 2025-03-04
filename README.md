@@ -5,14 +5,16 @@ A curated list of awesome Jolie frameworks, libraries, and software.
 # Applications and Tools
 
 - [@jolie/leonardo](https://www.npmjs.com/package/@jolie/leonardo) - A web server written in Jolie.
-- [jolie-chucknorris](https://www.npmjs.com/package/jolie-chucknorris) - Jolie tools and libraries for Chuck Norris facts.
-- [@jolie/languageserver](https://www.npmjs.com/package/@jolie/languageserver) - An implementation of the Language Server Protocol for Jolie.
+- [create-jolie](https://www.npmjs.com/package/create-jolie) - Jolie's Bootstrap tool (= module generator) for npm (`npm init jolie`)
 - [@jolie/jpm](https://www.npmjs.com/package/@jolie/jpm) - The Jolie Package Manager.
+- [@jolie/slicer](https://www.npmjs.com/package/@jolie/slicer) - Jolie's Monolith to Microservice Slicer
+- [jolie-chucknorris](https://www.npmjs.com/package/jolie-chucknorris) - Jolie tools and libraries for Chuck Norris facts.
 
 # Editor Support
 
 - [vim-jolie](https://github.com/jolie/vim-jolie) - Support for Jolie in the vim editor.
 - [vscode-jolie](https://github.com/jolie/vscode-jolie) - Support for Jolie in VSCode.
+- [@jolie/languageserver](https://www.npmjs.com/package/@jolie/languageserver) - An implementation of the Language Server Protocol for Jolie.
 
 # Libraries
 

@@ -3,7 +3,6 @@
 A curated list of awesome Jolie frameworks, libraries, and software.
 
 # Applications and Tools
-
 - [@jolie/leonardo](https://www.npmjs.com/package/@jolie/leonardo) - A web server written in Jolie.
 - [create-jolie](https://www.npmjs.com/package/create-jolie) - Jolie's Bootstrap tool (= module generator) for npm (`npm init jolie`)
 - [@jolie/jpm](https://www.npmjs.com/package/@jolie/jpm) - The Jolie Package Manager.
@@ -11,13 +10,11 @@ A curated list of awesome Jolie frameworks, libraries, and software.
 - [jolie-chucknorris](https://www.npmjs.com/package/jolie-chucknorris) - Jolie tools and libraries for Chuck Norris facts.
 
 # Editor Support
-
 - [vim-jolie](https://github.com/jolie/vim-jolie) - Support for Jolie in the vim editor.
 - [vscode-jolie](https://github.com/jolie/vscode-jolie) - Support for Jolie in VSCode.
 - [@jolie/languageserver](https://www.npmjs.com/package/@jolie/languageserver) - An implementation of the Language Server Protocol for Jolie.
 
 # Libraries
-
 - [@jolie/jot](https://www.npmjs.com/package/@jolie/jot) - A unit testing framework
 - [@jolie/commonmark](https://www.npmjs.com/package/@jolie/commonmark) - A library for rendering markdown according to the commonmark specification.
 - [@jolie/jsoup](https://www.npmjs.com/package/@jolie/jsoup) - An HTML parser library for Jolie.
@@ -31,7 +28,7 @@ A curated list of awesome Jolie frameworks, libraries, and software.
 
 ## Web Development
 - [@jolie/jwt](https://www.npmjs.com/package/@jolie/jwt) - A library for JSON Web Tokens (JWT).
-- [@jolie/websockets](https://www.npmjs.com/package/@jolie/websockets) - A client library for websockets.
+- [@jolie/websockets](https://www.npmjs.com/package/@jolie/websockets) - A client/server library for websockets.
 - [@jolie/liquid](https://www.npmjs.com/package/@jolie/liquid) - A library wrapping the Liquid templating engine Liqp.
 - [@jolie/jsoup](https://www.npmjs.com/package/@jolie/jsoup) - A html parser library for Jolie.
 

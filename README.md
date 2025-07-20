@@ -24,7 +24,13 @@ A curated list of awesome Jolie frameworks, libraries, and software.
 - [@jolie/tquery](https://www.npmjs.com/package/@jolie/tquery) - An in-memory query framework.
 - [@jolie/mongodb](https://www.npmjs.com/package/@jolie/mongodb) - A MongoDB client.
 - [@jolie/influxdb](https://www.npmjs.com/package/@jolie/influxdb) - An InfluxDB client.
-- [Jolie-Mosquitto](https://github.com/jolie/jolie-mosquitto) - A library wrapper for the Eclipse Paho Mqtt client.
+- [Jolie-Mosquitto](https://github.com/jolie/jolie-mosquitto) - An Eclipse Paho Mqtt 3.1.1 client.
+- [Jolie-RabbitMQ](https://github.com/jolie-storm/jolie-rabbitmq) - A RabbitMQ client.
+- [Jolie-Redis](https://github.com/jolie-storm/JolieRedis) - A Redis client.
+- [Jolie-Elasticsearch](https://github.com/jolie-storm/jolie-elasticsearch) - An Elasticsearch client.
+- [Jolie-Kafka](https://github.com/jolie-storm/JolieKafka) - A Kafka client.
+- [Jolie-Firebase](https://github.com/jolie-storm/JolieFirebase) - A Firebase client.
+- [jolie-array-util](https://www.npmjs.com/package/jolie-array-util) - A library for duplicate elimination on big arrays.
 
 ## Web Development
 - [@jolie/jwt](https://www.npmjs.com/package/@jolie/jwt) - A library for JSON Web Tokens (JWT).
